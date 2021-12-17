@@ -21,3 +21,4 @@ class PowerCalculator{
         }
     }
 }
+// in this the throws keyword is used to warn the compiler that an exception can be occur:
