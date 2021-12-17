@@ -23,3 +23,4 @@ class PowerCalculator{
 }
 // in this "throws' keyword is used to warn the compiler that an exception can be occur:
 // in this throw keyword is used to throw an exception which will be the user defined exception:
+// in which "new" keyword after throw is added to allocate memory for exception:
